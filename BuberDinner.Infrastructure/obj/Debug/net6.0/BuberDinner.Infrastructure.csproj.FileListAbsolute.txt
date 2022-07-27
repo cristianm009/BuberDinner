@@ -10,3 +10,8 @@ C:\src\training\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net6.0\BuberDin
 C:\src\training\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net6.0\refint\BuberDinner.Infrastructure.dll
 C:\src\training\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net6.0\BuberDinner.Infrastructure.pdb
 C:\src\training\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net6.0\ref\BuberDinner.Infrastructure.dll
+C:\src\training\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net6.0\BuberDinner.Application.dll
+C:\src\training\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net6.0\BuberDinner.Domain.dll
+C:\src\training\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net6.0\BuberDinner.Application.pdb
+C:\src\training\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net6.0\BuberDinner.Domain.pdb
+C:\src\training\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net6.0\BuberDinner.Infrastructure.csproj.CopyComplete

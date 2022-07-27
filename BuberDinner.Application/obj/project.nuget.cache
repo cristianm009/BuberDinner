@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kTvax3A+8nQPJqwEaYUuhWSvVLymdkz/r+1r9dqBItC7Whb4CBncGWU/xJAn7o4992uKNQHoHCQ/L1uK9/6ylQ==",
+  "dgSpecHash": "QRXtPBxb379CcI/lyagxHmDbRY4mb2h8Wzu75vUG5NnJIyNTeY8fcQXKP+AP+XumusXNcXAElDCRPoqI+OpesQ==",
   "success": true,
-  "projectFilePath": "c:\\src\\training\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+  "projectFilePath": "C:\\src\\training\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
